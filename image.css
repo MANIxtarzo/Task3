@@ -1,0 +1,9 @@
+body{
+background-image:url(car.jpg);
+background-size: cover;
+}
+h1{
+    background-color:rgb(67, 65, 65) ;
+    text-align: center;
+    color: aliceblue;
+}
